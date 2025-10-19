@@ -1,4 +1,4 @@
-# ECEN5623_RTES_FinalProject
+# Real-Time Automatic Waste Segregator
 This project presents the design and implementation of a real-time automatic waste segregation system, that leverages sensor integration and image processing to automate the sorting of waste into biodegradable and non-biodegradable categories.
 
 # Project Pictures
